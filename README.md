@@ -72,4 +72,4 @@ You need to have Node.js and npm installed on your local machine. You can downlo
 
 ## Authors
 
-- **Rohan Rupnawar** - *Initial work* - [Your GitHub Profile](https://github.com/Rohan588)
+- **Rohan Rupnawar** - *Initial work* - [GitHub Profile](https://github.com/Rohan588)
